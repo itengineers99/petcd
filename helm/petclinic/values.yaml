@@ -1,11 +1,9 @@
-# Default values for petclinic.
-# This is a YAML-formatted file.
-# Declare variables to be passed into your templates.
+
 
 replicaCount: 1
 
 image:
-  repository: initsixcloud/petclinic
+  repository: sureshkiran/petclinic
   tag: latest
   pullPolicy: IfNotPresent
 
