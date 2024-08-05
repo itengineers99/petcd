@@ -1,5 +1,4 @@
-#Deployment
-###controllers/pb-deploy.tml
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:
